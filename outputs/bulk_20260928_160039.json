@@ -1,0 +1,26 @@
+[
+    {
+        "product_name": "Nike Air Max",
+        "platform": "instagram",
+        "tone": "energetic",
+        "temperature": 0.8,
+        "top_p": 0.9,
+        "generated_copy": "🔥 Ready to crush your runs? Meet the **Nike Air Max**—where lightweight meets lightning-fast cushioning! 💨  \n\nStep into cloud-like comfort with every stride. Whether you're racing through the city or hitting the pavement, these shoes deliver unstoppable energy and pure performance. 🌟  \n\nDon’t just run—**soar**. 💥  \nTag your squad and show off your style! 👟  \n\n👉 **Shop now** and feel the difference!  \n#NikeAirMax #RunLikeAFan #FootwearGoals #EpicStride #NikeSneakers #StayLight #RunWithPurpose 🚀"
+    },
+    {
+        "product_name": "Flow Mind",
+        "platform": "linkedin",
+        "tone": "professional",
+        "temperature": 0.5,
+        "top_p": 0.9,
+        "generated_copy": "Transform Repetitive Workflows with AI-Powered Automation  \n\nIn today’s fast-paced business environment, repetitive tasks consume valuable time and resources. Flow Mind is an AI automation platform designed to streamline repetitive workflows, enabling teams to focus on high-impact activities.  \n\nBy leveraging intelligent automation, Flow Mind reduces manual effort, minimizes errors, and accelerates task completion. Whether it’s data entry, report generation, or routine administrative tasks, our platform adapts to your processes, delivering consistent efficiency without compromising quality.  \n\nThe result? Enhanced productivity, faster decision-making, and greater strategic focus.  \n\nReady to unlock the potential of AI-driven automation?  \nSchedule a demo today to see how Flow Mind can transform your workflow.  \n\nEmpower your team. Automate the mundane.  \n\n*Flow Mind – Intelligent Automation for Smarter Work.*"
+    },
+    {
+        "product_name": "Smart Coffee Maker",
+        "platform": "email",
+        "tone": "friendly",
+        "temperature": 0.7,
+        "top_p": 0.9,
+        "generated_copy": "**Subject Line:** Wake Up to a Perfect Cup of Coffee – Now Controlled by Your Phone!  \n\n**Hi [First Name],**  \n\nTired of the same old coffee routine? Meet the **Smart Coffee Maker**—your new kitchen essential designed to brew café-quality coffee in the comfort of your home, all controlled through your favorite mobile app.  \n\n**Why you’ll love it:**  \n☕ **Customize your brew** – Adjust strength, temperature, and grind size to match your taste.  \n⏰ **Schedule your coffee** – Wake up to the aroma of freshly brewed coffee, no matter the time.  \n📱 **Smart control at your fingertips** – Start, pause, or adjust your brew from anywhere via the app.  \n✨ **Simple, sleek, and stress-free** – Perfect for busy mornings or lazy weekends.  \n\nWhether you’re a coffee enthusiast or just looking to elevate your daily routine, the Smart Coffee Maker makes it easier than ever to enjoy a perfect cup—every time.  \n\n**Ready to upgrade your mornings?**  \n👉 [Shop Now](https://www.yourwebsite.com) and start your coffee journey today!  \n\n**Best regards,**  \nThe [Your Company Name] Team  \n\n*P.S. Limited-time offer: Get 15% off your first order with code COFFEE15. Don’t miss out!*"
+    }
+]
